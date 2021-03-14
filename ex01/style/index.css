@@ -6,10 +6,10 @@
     
   }
   .container {
-  display: table;
+  display:  table;
   box-sizing: border-box;
   width: 800px;
-  margin: 50px auto;
+  margin: 10px auto;
   }
   .row {
   margin: 10px 0;
