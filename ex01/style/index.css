@@ -1,0 +1,48 @@
+.naslov {
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+    padding: auto;
+    
+  }
+  .container {
+  display: table;
+  box-sizing: border-box;
+  width: 800px;
+  margin: 50px auto;
+  }
+  .row {
+  margin: 10px 0;
+  
+  }
+  .column {
+      display: table-cell;
+      padding: 10px;
+       max-width:33.33333%;
+      margin: 10px 0;
+      align-content: center;
+  }
+  .naslov2 {
+      padding-top: 5px;
+      color: skyblue;
+      margin-left: 15px;
+  }
+  .text {
+      align-content: center;
+      text-align:justify;
+      margin-left: 15px;
+  
+  }
+  .divtext {
+      margin: auto 20px;
+      align-content: center;
+      display:inline-block;
+  }
+  .link{
+  
+      margin:auto 20px;
+  
+  }
+  image{
+      margin:auto 40px;
+  }
